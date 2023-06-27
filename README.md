@@ -1,2 +1,2 @@
-# jingyilin.github.io
-jingyilin's own website
+# Jing-yilin.github.io
+Jing-yilin's own website
